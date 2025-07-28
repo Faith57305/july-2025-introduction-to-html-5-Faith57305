@@ -26,7 +26,7 @@
 <h5>Nature Reservation Tips</h5><br>
 <p>Here are some practical nature conservation tips you can practice to conserve nature;</p><br>
 <ol>
-<li="1">🌱 Personal Actions</li><br>
+<li="1">🌱 Personal Actions</li><br><br>
 </ol>
  <ul>
 <li>Reduce, reuse, and recycle to minimize waste.</li><br>
@@ -35,7 +35,7 @@
 <li>Conserve water by fixing leaks and using it efficiently.</li><br>
 </ul>
 <ol>
-<li="2">🐾 Wildlife Protection</li><br>
+<li="2">🐾 Wildlife Protection</li><br><br>
 </ol>
 <ul>
 <li>Avoid disturbing natural habitats when hiking or traveling.</li><br>
@@ -43,7 +43,7 @@
 <li>Do not purchase products made from endangered species.</li><br>
 </ul>
 <ol>
-<li="3">🌍 Sustainable Living</li><br>
+<li="3">🌍 Sustainable Living</li><br><br>
 </ol>
  <ul>
 <li>Use eco-friendly products and biodegradable packaging.</li><br>
@@ -51,7 +51,7 @@
 <li>Practice sustainable farming or gardening.</li><br>
 </ul>
 <ol>
-<li="4">🚌 Eco-friendly Travel</li><br>
+<li="4">🚌 Eco-friendly Travel</li><br><br>
 </ol>
 <ul>
 <li>Use public transportation, walk, or cycle to reduce carbon emissions.</li>
