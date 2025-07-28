@@ -1,6 +1,6 @@
 <!DOCTYPE html> 
 <head>
-<title>HTML5 + Accessibility & SEO Basics</title><br>
+ HTML5 + Accessibility & SEO Basics<br>
 </head>
 <body>
 <h1> Overview</h1><br>
