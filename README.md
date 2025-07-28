@@ -4,7 +4,7 @@
 </head>
 <body>
 <h1> My Perception about Nature</h1><br>
-<p>To me, nature is a living masterpiece—a perfect balance of beauty and resilience. It provides peace through its calming landscapes, teaches patience through its changing seasons, and reminds us of life’s interconnectedness. I see nature as both a sanctuary for the soul and a teacher that inspires harmony, humility, and respect for all living things.</p><br>
+<p>To me, nature is a living masterpiece, a perfect balance of beauty and resilience. It provides peace through its calming landscapes, teaches patience through its changing seasons, and reminds us of life’s interconnectedness. I see nature as both a sanctuary for the soul and a teacher that inspires harmony, humility, and respect for all living things.</p><br>
 <h2>Objective</h2>
 <p>My reason for writing about Mother Nature is to explore and express the beauty, importance, and interconnectedness of nature, highlighting her role in nurturing life, inspiring creativity, and teaching humanity valuable lessons about balance, resilience, and coexistence with the environment.</p><br>
  <h3>Target Audience</h3>
