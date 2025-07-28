@@ -1,6 +1,6 @@
 <!DOCTYPE html> 
 <head>
-<title> Mother Nature</title><br>
+ Mother Nature<br>
 </head>
 <body>
 <h1> My Perception of the word Nature</h1><br>
@@ -26,7 +26,7 @@
 <h5>Nature Reservation Tips</h5><br>
 <p>Here are some practical nature conservation tips you can practice to conserve nature;</p><br>
 <ol>
-<li>🌱 Personal Actions</li>
+<li="1">🌱 Personal Actions</li>
 </ol>
  <ul>
 <li>Reduce, reuse, and recycle to minimize waste.</li><br>
@@ -35,7 +35,7 @@
 <li>Conserve water by fixing leaks and using it efficiently.</li><br>
 </ul>
 <ol>
-<li>🐾 Wildlife Protection</li>
+<li="2">🐾 Wildlife Protection</li>
 </ol>
 <ul>
 <li>Avoid disturbing natural habitats when hiking or traveling.</li><br>
@@ -43,7 +43,7 @@
 <li>Do not purchase products made from endangered species.</li><br>
 </ul>
 <ol>
-<li>🌍 Sustainable Living</li>
+<li="3">🌍 Sustainable Living</li>
 </ol>
  <ul>
 <li>Use eco-friendly products and biodegradable packaging.</li><br>
@@ -51,7 +51,7 @@
 <li>Practice sustainable farming or gardening.</li><br>
 </ul>
 <ol>
-<li>🚌 Eco-friendly Travel</li>
+<li="4">🚌 Eco-friendly Travel</li>
 </ol>
 <ul>
 <li>Use public transportation, walk, or cycle to reduce carbon emissions.</li>
