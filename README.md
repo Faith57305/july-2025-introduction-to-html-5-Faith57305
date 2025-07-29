@@ -9,10 +9,10 @@
 <p>My reason for writing about Mother Nature is to explore and express the beauty, importance, and interconnectedness of nature, highlighting her role in nurturing life, inspiring creativity, and teaching humanity valuable lessons about balance, resilience, and coexistence with the environment.</p><br>
  <h3>Target Audience</h3>
 <ol>
-<li>Students and Educators – if you aim to teach or inspire learning about environmental conservation and natural beauty.</li><br>
+<li>Students and Educators – I aim to teach or inspire learning about environmental conservation and natural beauty.</li><br>
 <li>Environmental Enthusiasts – people passionate about sustainability, wildlife, and eco-friendly practices.</li><br>
 <li>General Readers – anyone who enjoys reflective, inspirational, or descriptive writing about the natural world.</li><br>
-<li>Policy Makers / NGOs – if your writing focuses on advocacy for protecting the environment.</li><br>
+<li>Policy Makers / NGOs – I focuse on advocacy for protecting the environment.</li><br>
 <li>Travelers and Outdoor Lovers – individuals interested in exploring and experiencing nature.</li><br>
 <h4>Purpose for Writing </h4><br>
 <p>Here are some of the reasons I choose to write about nature:</p><br>
@@ -20,7 +20,7 @@
 <li>To Inspire Appreciation – Encourage readers to value and cherish the beauty of nature.</li><br>
 <li>To Educate – Explain the importance of nature, ecosystems, and environmental conservation.</li><br>
 <li>To Advocate for Protection – Motivate people to take action to preserve natural resources and wildlife.</li><br>
-<li>To Reflect Personally – Share your own connection and experiences with nature to evoke emotions in readers.</li><br>
+<li>To Reflect Personally – Share my own connection and experiences with nature to evoke emotions in readers.</li><br>
 <li>To Promote Sustainability – Raise awareness about eco-friendly living and responsible resource use.</li><br>
 </ul>
 <h5>Nature Reservation Tips</h5><br>
